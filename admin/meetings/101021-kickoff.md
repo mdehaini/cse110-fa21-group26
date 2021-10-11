@@ -28,6 +28,11 @@ Kickoff
 4. Group contract
 5. Discuss the project
 
+<h3>Meeting Notes: </h3>
+
+- Weekly Meetings (Date TBD using When2Meet)
+- Meeting tuesday 10/12 after class
+
 <h3>Action Items:</h3>
 
 |Name| Task                        | Due Date |
