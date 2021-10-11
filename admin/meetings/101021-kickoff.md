@@ -39,6 +39,4 @@ Kickoff
 |Kyle| Contract: Conflict Resolution | 12 October 2021|
 
 <h3>Meeting Recording: </h3>
-<video src="videos/101021.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+<a href="https://drive.google.com/file/d/1z6dsCP6HykhBKZVBXuiZJ_D64yHkttwd/view?usp=sharing">Click here to view meeting recording</a>
