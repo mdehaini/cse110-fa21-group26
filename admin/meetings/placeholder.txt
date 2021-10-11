@@ -1,2 +1,0 @@
-GitHub does not recognize empty folders. 
-Delete this when folder <admin/meetings> has its first file besides this one.
