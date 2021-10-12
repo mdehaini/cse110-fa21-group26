@@ -7,9 +7,7 @@
 
 
 ## Primary Means of Communication and Expectations
-- Slack
-- Important messages: email
-- Response time: 24 hours
+  All team members are expected to check the slack group page daily for any announcements made. Any important messages will have a slack announcement and emails sent out. Everyone is expected to respond in no more than 24 hours.
 
 ## Scheduling Meetings
 - Weekly meetings on ___
