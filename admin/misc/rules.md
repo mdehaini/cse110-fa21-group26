@@ -1,9 +1,24 @@
-# Fix formatting
 # Team Contract
-# Team name
+## Team name
 
+## Group Identification
+Lab section # –
+Table # –
+Instructor – 
+Team Name (Optional) –
 
-## Maryam: part 1
+## Team member info:
+
+|Name|Email|
+|----|--------|
+|Maryam Dehaini| mdehaini@ucsd.edu|
+|Kyle Nakai|ktnakai@ucsd.edu|
+|Arman Ommid|aommid@ucsd.edu|
+|Caitlin Lee|ckl002@ucsd.edu|
+|Harry Hur|juhur@ucsd.edu|
+|Perry Wang|pqwang@ucsd.edu|
+|Lucas Horwitz|luhorwit@ucsd.edu|
+|Anahi Ayala|agayala@ucsd.edu|
 
 
 ## Primary Means of Communication and Expectations
