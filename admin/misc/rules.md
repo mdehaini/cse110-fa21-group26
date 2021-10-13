@@ -27,8 +27,8 @@ Team Name (Optional) –
 - Response time: 24 hours
 
 ## Scheduling Meetings
-- Weekly meetings on ___
-- when2meet if any more meetings are required
+- Weekly meetings on every Wednesday 5pm via zoom (TBD about in person)
+- Voting when2meet if any more meetings are required or needed
 
 ## General Responsibilities for All Team Members 
 - Contribute to team goals and meetings
