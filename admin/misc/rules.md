@@ -48,9 +48,9 @@ Team Name (Optional) –
 
 ## Conflict Resolution
 Types of Problems:
-- Work Related: Deadlines, not doing you job,
-- Personal
-- Resolution Levels: 
+- Work Related: Missing multiple deadlines, ignoring responsibilities and job, exceoptionally poor quality
+- Personal: team disagreements, personal/outside issues
+Resolution Process: 
 - 1st level: Meet/resolve within team
 - 2nd level: Bring in TA/prof
 
