@@ -1,1 +1,3 @@
-# Dijkstra's Alcohalism Team Page #
+# Dijkstra's Alcoholism Team Page
+
+## Branding
