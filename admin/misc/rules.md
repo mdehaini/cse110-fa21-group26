@@ -1,11 +1,11 @@
 # Team Contract
-## Team name
+## Dijkstra's Alcoholism
 
 ## Group Identification
 Lab section # –
-Table # –
-Instructor – 
-Team Name (Optional) –
+Table # – 
+Instructor – Thomas A. Powell
+Team Name (Optional) – Dijkstra's Alcoholism
 
 ## Team member info:
 
@@ -43,7 +43,6 @@ Team Name (Optional) –
 - Designer
 - UI/UX Design
 
-
 ## Conflict Resolution
 Types of Problems:
 - Work Related: Missing multiple deadlines, ignoring responsibilities and job, exceoptionally poor quality
@@ -53,4 +52,7 @@ Resolution Process:
 - 2nd level: Bring in TA/prof
 
 ## Suggested Statement
-*If a team member fails to live up to this agreement, the situation may be reported to the staff, but the team will still be responsible for submitting a completed assignment. Staff will be available to meet with teams to resolve issues.*
+*If a team member fails to live up to this agreement, the situation may be reported to the professor, but the team will still be responsible for submitting a completed assignment.*
+
+
+
