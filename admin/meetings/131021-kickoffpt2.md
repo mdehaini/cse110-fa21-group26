@@ -44,9 +44,7 @@ Kickoff
 
 <h3>Next Meeting:</h3>
 - Group Bonding
-- Discuss the big project:
-  - Who, what, where, when of project.
-  - Labels
+- Discuss project principals
 
 
 <h3>Action Items:</h3>
